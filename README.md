@@ -1,2 +1,7 @@
-# hello_word
-just to learn
+#include<iosteram>
+using namespace std;
+main()
+{
+cout<<"heloo";
+}
+
